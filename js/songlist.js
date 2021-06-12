@@ -1,5 +1,7 @@
 
 // listing songs details in an array
+
+// add songs in this array
 let playlist = [
     {
         name:"jai bajarangi",
